@@ -1,0 +1,25 @@
+main {
+    width: 100vh;
+    height: 100vh;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+body{
+    margin: 0;
+}
+
+td{
+    padding: .5em;
+    text-align: center;
+}
+
+#forum-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
